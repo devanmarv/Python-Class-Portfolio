@@ -1,1 +1,4 @@
-This is a directory for my python classes final. All I truly have in this portfolio is my pong game I built and a tutorial on how to build it. I know it's not much but it's what I have. I hope I can get some credit for it as is.
+This is a directory for my python classes final.
+All I truly have in this portfolio is my pong game I built and a tutorial on how to build it.
+I know it's not much but it's what I have.
+I hope I can get some credit for it as is.
